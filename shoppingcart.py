@@ -14,16 +14,16 @@ class ShoppingCart():
 
     def remove_product(self, product: Product):
         if not self._is_valid_product(product):
-            raise ValueError("Invalid product given - must be a Product object")
+            raise ValueError("Invalid product 1given - must be a Product object")
         elif product not in self._productlist:
-            print("The product is not in the cart")
+            print("The product is not in the car")
         else:
-            self._productlist.remove(product)
 
     # list all products using index loop
     def list_products(self):
         for i in range(len(self._productlist)):
             print(f"Item #{i+1}: {self._productlist[i].get_name()}")
+            print("1")
 
     # calculate total price of all items in the cart
     def get_subtotal(self):
