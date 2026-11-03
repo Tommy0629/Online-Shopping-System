@@ -1,0 +1,13 @@
+Exit Ticket
+
+1. Repo link:
+https://github.com/Tommy0629/Online-Shopping-System
+
+2. One thing GitHub makes easier:
+GitHub makes it easier to save my code online and keep track of changes, so I can go back to older versions and share my work.
+
+3. One thing that confused me:
+At first I was confused that the "Initialize Repository" button disappeared, because the folder was already a Git repository.
+
+4. My most recent commit message:
+Add README
